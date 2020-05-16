@@ -20,6 +20,6 @@
     "SharedArrayBuffer": "readonly"
   },
   "plugins": [
-    "react"
+    "react/recommended"
   ]
 }
