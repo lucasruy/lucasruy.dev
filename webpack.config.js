@@ -13,6 +13,11 @@ const config = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'scripts/[name].[contenthash].js',
   },
+  devServer: {
+    contentBase: path.join(__dirname, 'dist'),
+    compress: false,
+    port: 9090
+  },
   module: {
     rules: [
       {

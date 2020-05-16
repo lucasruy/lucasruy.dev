@@ -9,7 +9,8 @@
   "scripts": {
     "clean": "rm dist/bundle.js",
     "build-dev": "webpack -d --mode development",
-    "build-prod": "webpack -p --mode production"
+    "build-prod": "webpack -p --mode production",
+    "start": "webpack-dev-server"
   },
   "dependencies": {
     "react": "^16.13.1",
@@ -36,6 +37,7 @@
     "url-loader": "^4.1.0",
     "webpack": "^4.43.0",
     "webpack-bundle-analyzer": "^3.7.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
   }
 }
