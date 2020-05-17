@@ -1,15 +1,7 @@
 import React from 'react'
 
-import { Title } from './components/Title'
-import { SubTitle } from './components/SubTitle'
+import { ProvisoryComponent } from './components/ProvisoryComponent'
 
-const App = () => {
-  return (
-    <div>
-      <Title>lucasruy.dev</Title>
-      <SubTitle>Frontend developer based in São Paulo, Brazil.</SubTitle>
-    </div>
-  )
-}
+const App = () => <ProvisoryComponent />
 
 export default App
