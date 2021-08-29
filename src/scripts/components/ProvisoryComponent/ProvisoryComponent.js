@@ -8,8 +8,8 @@ const ProvisoryComponent = () => (
     <p className="paragraph">
         <span className="text-item text-item--1">Olá, seja muito bem-vindo!</span>
         <span className="text-item text-item--1">
-          Me chamo Lucas, tenho 24 anos e sou formado em Análise e Desenvolimento de Sistemas pela Universidade Anhembi Morumbi. 
-          Trabalho como desenvolvedor fron-end desde 2016, sempre atuei em projetos de grandes responsabilidades e com clientes de médio ou grande porte. 
+          Me chamo Lucas, tenho 27 anos e sou formado em Análise e Desenvolimento de Sistemas pela Universidade Anhembi Morumbi. 
+          Trabalho como desenvolvedor fron-end desde 2015, sempre atuei em projetos de grandes responsabilidades e com clientes de médio ou grande porte. 
         </span>
         <span className="text-item text-item--1">
             Ao longo dessa minha trajetória na área de tecnologia eu tive a oportunidade de participar de ótimos projetos e adquirir muitos conhecimentos em 
@@ -34,9 +34,9 @@ const ProvisoryComponent = () => (
               </a>
             </li>
             <li className="contacts-list contacts-list--item contacts-list--email">
-              <a className="item-link" href="mailto:lukas.r@hotmail.com">
+              <a className="item-link" href="mailto:lucasplet@gmail.com">
                 <span className="item-link item-link--title">E-mail</span>
-                <span className="item-link item-link--sub">lukas.r@hotmail.com</span>
+                <span className="item-link item-link--sub">lucasplet@gmail.com</span>
               </a>
             </li>
         </ul>
