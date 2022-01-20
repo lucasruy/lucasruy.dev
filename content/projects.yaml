@@ -12,7 +12,7 @@
 - name: sync-branch-action
   url: https://github.com/LucasRuy/sync-branch-action
   description: GitHub Action em JavaScript para atualizar branches automaticamente.
-  status: live
+  status: publicado
   tags:
     - GitHub Actions
     - JavaScript
