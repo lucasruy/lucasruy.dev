@@ -42,6 +42,9 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
+  "build": {
+    "destination": "docs"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/LucasRuy/lucasruy.dev"
