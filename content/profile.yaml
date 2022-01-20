@@ -1,0 +1,34 @@
+- profile:
+  initials: LR
+  name: Lucas Ruy
+  profession: Frontend Developer
+  image: images/profile.jpg
+  location: São Paulo, BRA
+  relocation: false
+  company: SAS Plataforma de Educação
+  for_hire: true
+  focus: Aprender VueJS
+  focus_url: https://vuejs.org/
+  about: |
+    Me chamo Lucas e sou desenvolvedor frontend, atuo na área profissionalmente desde 2016.
+
+    Sempre trabalhei com projetos de grande escala e responsabilidades, com acessos diários de bastante expressão e sempre procurei manter o máximo de qualidade possível no código e também performance.
+
+    Meu foco está voltado para aplicações web desde o inicio de minha carreira. Utilizei muito JavaScript e ferramentas voltadas para o frontend. Porém recentemente tive a oportunidade de trabalhar bastante com NodeJS em um projeto que possuia um BFF dedicado a uma aplicação web, tanto esta aplicação web quanto o BFF, era mantido por mim e outros desenvolvedores.
+
+    Estou sempre buscando novos conhecimentos em técnologias recentes ou consideras interessantes por mim. Me sinto motivado quando existem desafios interessantes e também a oportunidade de aplicar meus conhecimentos agredados ao longo do tempo nos mesmos.
+  skills:
+    - HTML / CSS
+    - JavaScript
+    - ReactJS
+  tools:
+    - Redux
+    - NextJS
+    - NodeJS
+    - Jest
+    - VueJS
+  budget:
+    currency: R$
+    min: 10
+    max: 30
+    default: 10
