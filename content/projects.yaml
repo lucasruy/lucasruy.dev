@@ -1,0 +1,19 @@
+- name: rollup-boilerplate
+  url: https://github.com/LucasRuy/rollup-boilerplate
+  description: Padrão simples para criar bibliotecas de componentes com React e Jest.
+  status: in progress
+  tags:
+    - Rollup
+    - React
+    - Jest
+    - Boilerplate
+  icon: github
+
+- name: sync-branch-action
+  url: https://github.com/LucasRuy/sync-branch-action
+  description: GitHub Action em JavaScript para atualizar branches automaticamente.
+  status: live
+  tags:
+    - GitHub Actions
+    - JavaScript
+  icon: github
