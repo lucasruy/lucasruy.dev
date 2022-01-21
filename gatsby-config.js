@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    description: "Code of my personal page.",
+    description: "Site pessoal de Lucas Ruy, desenvolvedor frontend, que atua na área profissionalmente desde 2016. Atualmente residindo em São Paulo, Brasil.",
     locale: "pt-BR",
     showThemeLogo: true,
     title: "Lucas Ruy",
